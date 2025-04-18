@@ -9,6 +9,8 @@ namespace MyTextRPGApp2
     {
         static void Main(string[] args)
         {
+            //    아무거나
+
             try
             {
                 if (!Event.FirstScene())
