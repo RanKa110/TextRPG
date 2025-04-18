@@ -1,0 +1,15 @@
+C:\Users\power\OneDrive\Desktop\MyTextRPGApp2\MyTextRPGApp2\bin\Debug\net7.0\MyTextRPGApp2.exe
+C:\Users\power\OneDrive\Desktop\MyTextRPGApp2\MyTextRPGApp2\bin\Debug\net7.0\MyTextRPGApp2.deps.json
+C:\Users\power\OneDrive\Desktop\MyTextRPGApp2\MyTextRPGApp2\bin\Debug\net7.0\MyTextRPGApp2.runtimeconfig.json
+C:\Users\power\OneDrive\Desktop\MyTextRPGApp2\MyTextRPGApp2\bin\Debug\net7.0\MyTextRPGApp2.dll
+C:\Users\power\OneDrive\Desktop\MyTextRPGApp2\MyTextRPGApp2\bin\Debug\net7.0\MyTextRPGApp2.pdb
+C:\Users\power\OneDrive\Desktop\MyTextRPGApp2\MyTextRPGApp2\obj\Debug\net7.0\MyTextRPGApp2.csproj.AssemblyReference.cache
+C:\Users\power\OneDrive\Desktop\MyTextRPGApp2\MyTextRPGApp2\obj\Debug\net7.0\MyTextRPGApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\power\OneDrive\Desktop\MyTextRPGApp2\MyTextRPGApp2\obj\Debug\net7.0\MyTextRPGApp2.AssemblyInfoInputs.cache
+C:\Users\power\OneDrive\Desktop\MyTextRPGApp2\MyTextRPGApp2\obj\Debug\net7.0\MyTextRPGApp2.AssemblyInfo.cs
+C:\Users\power\OneDrive\Desktop\MyTextRPGApp2\MyTextRPGApp2\obj\Debug\net7.0\MyTextRPGApp2.csproj.CoreCompileInputs.cache
+C:\Users\power\OneDrive\Desktop\MyTextRPGApp2\MyTextRPGApp2\obj\Debug\net7.0\MyTextRPGApp2.dll
+C:\Users\power\OneDrive\Desktop\MyTextRPGApp2\MyTextRPGApp2\obj\Debug\net7.0\refint\MyTextRPGApp2.dll
+C:\Users\power\OneDrive\Desktop\MyTextRPGApp2\MyTextRPGApp2\obj\Debug\net7.0\MyTextRPGApp2.pdb
+C:\Users\power\OneDrive\Desktop\MyTextRPGApp2\MyTextRPGApp2\obj\Debug\net7.0\MyTextRPGApp2.genruntimeconfig.cache
+C:\Users\power\OneDrive\Desktop\MyTextRPGApp2\MyTextRPGApp2\obj\Debug\net7.0\ref\MyTextRPGApp2.dll
